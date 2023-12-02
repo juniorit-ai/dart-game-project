@@ -1,20 +1,9 @@
-# gamecraft
+# Learn the Dart/Flutter by developing your own game
 
-flutter run -d chrome
-flutter build web
+## License
 
+Please review the [Student License](licenses/student-license.md), [General License](licenses/LICENSE.md) and [Third-Party Licenses](licenses/3rd-party-licenses.md) files for this education project
 
-A new Flutter project.
+## Student Contributing
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Before submitting your work for review or a Pull Request to the project, make sure to read our [Student Contribution Agreement](licenses/student-contribution.md).
